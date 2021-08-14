@@ -12,7 +12,7 @@ Estava estudando mais um pouco sobre java e banco de dados, quando me veio algum
 # Lado Positivo
 
 Na nossa classe Teste temos um atributo abstrato num (do tipo Number), logo, na nossa aplicação não é preciso dizer o tipo do valor que será passado.
-O atributo num, pode ser instânciado como inteiro, real etc. Esta flexibilidade irá gerar um menos consumo de dados no banco, pois o tamanho desse dado pode variar de acordo com o valor passado, podemos ver isso na classe MainApplication.java
+O atributo num, pode ser instânciado como inteiro, real etc. Esta flexibilidade irá gerar um menor consumo de dados no banco, pois o tamanho desse dado pode variar de acordo com o valor passado, podemos ver isso na classe MainApplication.java
 
 ![image](https://user-images.githubusercontent.com/76585138/129445976-9a608d4d-e4cd-4c32-a0e6-2d5538c07cba.png)
 
