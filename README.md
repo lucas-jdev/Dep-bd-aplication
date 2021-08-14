@@ -4,7 +4,7 @@ O projeto se baseia em mostrar como um Banco de dados fica dependendo demais de 
 
 # Apresentação da problemática
 
-Estava estudando mais um pouco sobre java e banco de dados, quando meio veio algumas curiosidades...
+Estava estudando mais um pouco sobre java e banco de dados, quando me veio algumas curiosidades...
 
 * O que acontece quando eu tento fazer um mapeamento de uma classe cujo atributo que ela possua seja abstrato?
 * Será que consumo menos memória? Se consumir menos memória no banco, qual será o custo?
